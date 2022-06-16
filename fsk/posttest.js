@@ -80,56 +80,56 @@
 
   const myQuestions = [
     {
-      question: "When does over-modulation occur?",
+      question: "The modulation technique less affected by noise is",
       answers: {
-        a: "Modulating signal voltage < Carrier voltage",
-        b: "Modulating signal voltage = Carrier voltage",
-        c: " Modulating signal voltage > Carrier voltage",
-        d: "Modulating signal voltage =0"
+        a: "FSK",
+        b: "ASK",
+        c: " PSK",
+        d: "None of these"
+      },
+      correctAnswer: "a"
+    },
+
+    {
+      question: "In Binary FSK, mark and space respectively represent",
+      answers: {
+        a: "11 and 00",
+        b: "1 and 0",
+        c: "0 and 1",
+        d: "00 and 11"
       },
       correctAnswer: "c"
     },
 
     {
-      question: "What is the modulation index value if Vmax=5.9v and Vmin=1.2v?",
+      question: "If the desired transmission bit rate for a coherent binary FSK system is 4 Kbits / sec, the best possible interval between the carriers is",
       answers: {
-        a: "0.5",
-        b: "0.425",
-        c: " 0.662",
-        d: "0.14"
-      },
-      correctAnswer: "c"
-    },
-
-    {
-      question: "What happens when the amplitude of the modulating signal is greater than the amplitude of the carrier?",
-      answers: {
-        a: "Distortion",
-        b: "Decay",
-        c: "Amplification",
-        d: "Attenuation"
+        a:" 0.5 mS",
+        b: "0.25 mS",
+        c: "1 mS",
+        d: "5 mS"
       },
       correctAnswer: "a"
     },
 
     
     {
-      question: "Modulation is done in _______",
+      question: "Which FSK has no phase discontinuity?",
       answers: {
-        a: "Radio receiver",
-        b: "Transmitter",
-        c: "Between transmitter and radio receiver",
-        d: "None of the options"
+        a:" Discrete FSK",
+        b: "Continuous FSK",
+        c:" Uniform FSK",
+        d:"None of the mentioned"
       },
       correctAnswer: "b"
     },
 
     {
-      question: "In an AM wave useful power is carrier by ______ ",
+      question: "FSK reception is ",
       answers: {
-        a: "Carrier",
-        b: "Sidebands",
-        c: "Both sidebands and carrier",
+        a: " Phase Coherent",
+        b: "Phase Coherent & non coherent",
+        c: "Phase non coherent",
         d: "None of the options"
       },
       correctAnswer: "b"
