@@ -9,16 +9,15 @@
 
 <br>
 
-<img src="images/s1.png"/><br><br>
-<img src="images/s2.png"/><br><br>
-<img src="images/s3.png"/><br><br>
+<img src="Images/s1.png"/><br><br>
+<img src="Images/s2.png"/><br><br>
+<img src="Images/s3.png"/><br><br>
 
 
 <br>
-Where <img src="images/t5.png"/> and <img src="images/t6.png"/> are mathematical expression for
-<i>modulating and Carrier Signal</i>.<br>
+
 The modulated signal can be Calculated Using the Formulae 
-<img src="images/t4.png"/><br>
+<img src="Images/s6.png"/><br>
 
 
 Take the pretest to Check your Understanding till know
