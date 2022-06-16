@@ -12,7 +12,7 @@ In PCM transmitter, the signal x(t) is first passed through the low-pass filter 
 
 <br>
 
-<img src="images/T1.jpeg"/><br><br>
+<img src="Images/T1.jpeg"/><br><br>
 
 
 
