@@ -80,57 +80,57 @@
 
   const myQuestions = [
     {
-      question: "When does over-modulation occur?",
+      question: "The modulation technique most affected by noise is",
       answers: {
-        a: "Modulating signal voltage < Carrier voltage",
-        b: "Modulating signal voltage = Carrier voltage",
-        c: " Modulating signal voltage > Carrier voltage",
-        d: "Modulating signal voltage =0"
+        a: "ASK",
+        b: "FSK",
+        c: "PSK",
+        d: "QAM"
       },
-      correctAnswer: "c"
+      correctAnswer: "a"
     },
 
     {
-      question: "What is the modulation index value if Vmax=5.9v and Vmin=1.2v?",
+      question: "OOK is a ______ type of modulation",
       answers: {
-        a: "0.5",
-        b: "0.425",
-        c: " 0.662",
-        d: "0.14"
+        a: "ASK",
+        b: "FSK",
+        c: "PSK",
+        d: "QAM"
       },
-      correctAnswer: "c"
+      correctAnswer: "a"
     },
 
     {
-      question: "What happens when the amplitude of the modulating signal is greater than the amplitude of the carrier?",
+      question: "An ASK modulated signal has a bit rate of 2000 bps; the baud rate is _______",
       answers: {
-        a: "Distortion",
-        b: "Decay",
-        c: "Amplification",
-        d: "Attenuation"
+        a: "2000",
+        b: "1000",
+        c: "4000",
+        d: "none of the above"
       },
       correctAnswer: "a"
     },
 
     
     {
-      question: "Modulation is done in _______",
+      question: "Two ways of ASK demodulation are",
       answers: {
-        a: "Radio receiver",
-        b: "Transmitter",
-        c: "Between transmitter and radio receiver",
-        d: "None of the options"
+        a: "Coherent detection & non-Coherent detection",
+        b: "Synchronous demodulation & non-Synchronous demodulation",
+        c: "both a & b",
+        d: "there is only one demodulation technique in ASK."
       },
       correctAnswer: "b"
     },
 
     {
-      question: "In an AM wave useful power is carrier by ______ ",
+      question: "The minimum bandwidth for an ASK modulated signal with a baud rate of 5000 is _____ Hz",
       answers: {
-        a: "Carrier",
-        b: "Sidebands",
-        c: "Both sidebands and carrier",
-        d: "None of the options"
+        a: "1000",
+        b: "5000",
+        c: "2000",
+        d: "2500"
       },
       correctAnswer: "b"
     },
