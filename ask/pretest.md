@@ -19,7 +19,7 @@ d. Low amplitude<br>
 Q 3. Which among the following is also called ON-OFF keying?<br>
 
 a. PSK<br>
-b. FSK
+b. FSK<br>
 <mark><b>c. ASK</b><br></mark>
 d. QPSK<br>
 
