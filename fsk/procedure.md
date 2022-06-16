@@ -6,7 +6,7 @@
 <img src="Images/s1.png"><br>
 3. Set the Message Signal Amplitude and Frequency<br>
 <img src="Images/s2.png"><br>
-4. Set the Carrier Signal Amplitude and Frequency<br>
+4. Set the Carrier Signal Frequencies<br>
 <img src="Images/s5.png"><br>
 <br>
 <img src="Images/s4.png"><br>
