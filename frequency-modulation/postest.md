@@ -27,7 +27,7 @@ d. None of the options<br>
 
 Q 5. In an FM wave useful power is carrier by **\_\_** <br>
 a. Carrier<br>
-<mark><b>b.Sidebands<br></b></mark>
-c. Both sidebands and carrier<br>
+b.Sidebands<br></b></mark>
+<mark><b>c. Both sidebands and carrier<br></b></mark>
 d. None of the options<br>
 
