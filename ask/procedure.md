@@ -3,7 +3,7 @@
 1. After going through the theory and pretest, click the "Simulation" tab<br>
 
 2. The simulator will display the interactive Simulator<br>
-<img src="Images/s1.png"><br>
+<img src="Images/s1.jpeg"><br>
 3. Set the Message Signal Amplitude and Frequency<br>
 <img src="Images/s2.png"><br>
 4. Set the Carrier Signal Amplitude and Frequency<br>
