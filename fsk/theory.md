@@ -14,7 +14,7 @@
 
 <br>
 
-The modulated signal can be Calculated Using the Formulae 
+The modulated signal can be Calculated Using the Formulae <br>
 <img src="Images/s6.png"/><br>
 
 
