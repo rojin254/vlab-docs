@@ -2,8 +2,8 @@
 
 <br>
 Q 1.	The modulation technique less affected by noise is<br>
-<mark><b>a. ASK<br></b></mark>
-b. FSK<br>
+<mark><b>a. FSK<br></b></mark>
+b. ASK<br>
 c. PSK<br>
 d. None of these <br><br>
 
