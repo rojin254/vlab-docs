@@ -14,6 +14,6 @@
 6. Click on "Demodulate" button. This will Show the Demodulated Message Signal.<br>
 7. Click on "Stop" button to view the graph in a Statis state<br>
 8. In the Results Section you can view the modualtion Index and type of modulation (with respect to modulation index)<br>
-<img src="Images/s5.png"><br>
+<img src="Images/s6.png"><br>
 9.  The simulator will display the interactive questions, attempt the questions.<br>
 10. Note the conclusions from the experiment performed.<br>
