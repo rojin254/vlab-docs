@@ -9,9 +9,7 @@
 
 <br>
 
-<img src="Images/s1.png"/><br><br>
-<img src="Images/s2.png"/><br><br>
-<img src="Images/s3.png"/><br><br>
+<img src="Images/t1.png"/><br><br>
 
 
 <br>
