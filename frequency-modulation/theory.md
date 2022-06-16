@@ -23,7 +23,7 @@
 <br>
 Where <img src="Images/t5.png"/> and <img src="Images/t6.png"/> are mathematical expression for
 <i>modulating and Carrier Signal</i>.<br>
-The modulation Index can be Calculated Using the Formulae 
+The modulated signal can be Calculated Using the Formulae 
 <img src="Images/t4.png"/><br>
 
 <hr>
