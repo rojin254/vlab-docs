@@ -1,32 +1,32 @@
 ## Post test
 
 <br>
-Q 1.	What happens when the amplitude of the modulating signal is greater than the amplitude of the carrier?<br>
-<mark><b>a. Distortion<br></b></mark>
-b. Decay<br>
-c. Amplification<br>
-d. Attenuation<br><br>
+Q 1.	The modulation technique less affected by noise is<br>
+<mark><b>a. ASK<br></b></mark>
+b. FSK<br>
+c. PSK<br>
+d. None of these <br><br>
 
-Q 2.When does over-modulation occur?<br>
-a. Modulating signal voltage <mark Carrier voltage<br>
-b. Modulating signal voltage = Carrier voltage<br>
-<mark><b>c. Modulating signal voltage > Carrier voltage<br></b></mark>
-d. Modulating signal voltage =0<br>
+Q 2.In Binary FSK, mark and space respectively represent<br>
+a. 11 and 00<br>
+b. 0 and 1<br>
+<mark><b>c. 0 and 1<br></b></mark>
+d. 00 and 11<br>
 
-Q 3.What is the modulation index value if Vmax=5.9v and Vmin=1.2v?<br>
-<mark><b>a. 0.662<br></b></mark>
-b. 0.5<br>
-c. 0.425<br>
-d. 0.14<br>
+Q 3.If the desired transmission bit rate for a coherent binary FSK system is 4 Kbits / sec, the best possible interval between the carriers is<br>
+<mark><b>a. 0.5 mS<br></b></mark>
+b. 0.25 mS<br>
+c. 1 mS<br>
+d. 5 mS<br>
 
-Q 4.Modulation is done in **\_\_\_**<br>
-a. Radio receiver<br>
-<mark><b>b. Transmitter<br></b></mark>
-c. Between transmitter and radio receiver<br>
-d. None of the options<br>
+Q 4.Which FSK has no phase discontinuity?<br>
+a.  Discrete FSK<br>
+<mark><b>b. Continuous FSK<br></b></mark>
+c.  Uniform FSK<br>
+d.None of the mentioned.<br>
 
-Q 5. In an AM wave useful power is carrier by **\_\_** <br>
-a. Carrier<br>
-<mark><b>b.Sidebands<br></b></mark>
-c. Both sidebands and carrier<br>
-d. None of the options<br>
+Q 5. FSK reception is<br>
+a. Phase Coherent<br>
+<mark><b>b. Phase Coherent & non coherent<br></b></mark>
+c. Phase non coherent<br>
+d. None of the mentioned<br>
