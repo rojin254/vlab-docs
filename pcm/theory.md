@@ -1,43 +1,24 @@
 ## <br>INTRODUCTION <br>
 
- In communication, to transfer signal from one point to another efficiently many modulation techniques are used. Amplitude modulation is the pioneer technique used in communication to carrier message signal with help of high frequency waves.
- If the amplitude of the high frequency signal is simultaneously changed to that of the modulating signal, the process is termed as Amplitude Modulation.
-
+Pulse-code modulation (PCM) is a method used to digitally represent sampled analog signals. It is the standard form of digital audio in computers, compact discs, digital telephony and other digital audio applications. In a PCM stream, the amplitude of the analog signal is sampled regularly at uniform intervals, and each sample is quantized to the nearest value within a range of digital steps.
 ---
 
 ## <b>CONCEPT</b><br>
 
- Out of the three parameters in any given waveform, ie., amplitude , frequency and phase, If the amplitude of message is varied with respect to the high frequency signal(Carrier) the resultant will a modulated signal. 
-
+In PCM transmitter, the signal x(t) is first passed through the low-pass filter of cut-off frequency fm Hz. This low-pass filter blocks all the frequency components above fm Hz .This means that now the signal x(t) is bandlimited to fm Hz . The sample and hold circuit then samples this signal at the rate of fs. Sampling frequency fs is selected sufficiently above nyquist rate to avoid aliasing i.e., fs ≥ 2fm The output sample and hold circuit is denoted by x(nTs). This signal x(nTs) is discrete in time and continuous in amplitude.
 ---
 
-## <b>AMPLITUDE MODULATION WAVE FORMS</b><br>
+## <b>PULSE CODE MODULATION SIGNALS</b><br>
 
 <br>
 
-<img src="images/t1.png"/><br><br>
-<img src="images/t2.png"/><br><br>
-<img src="images/t3.png"/><br><br>
+<img src="images/t1.JPEG"/><br><br>
+
 
 
 <br>
-Where <img src="images/t5.png"/> and <img src="images/t6.png"/> are mathematical expression for
-<i>modulating and Carrier Signal</i>.<br>
-The modulation Index can be Calculated Using the Formulae 
-<img src="images/t4.png"/><br>
+
 
 <hr>
-<b>Under Modulation</b> <br>
-If the depth of modulation is less than 1, then the resulting output is as shown in the figure. 
-<br>
-<img src="images/t7.png"/><br>
-Under Modulated Wave<br>
-
----
-
-<b>Over Modulation</b> <br>
- If the depth of modulation higher than 1, then the resulting output is as shown in the figure.<br>
-<img src="images/t8.png"/><br>
-Over modulated Wave<br>
 
 Take the pretest to Check your Understanding till know
