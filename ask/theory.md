@@ -14,12 +14,12 @@ Any modulated signal has a high frequency carrier. The binary signal when ASK mo
 
 <br>
 
-<img src="Images/t1.png"/><br><br>
+<img src="Images/t1.jpeg"/><br><br>
 
 <br>
 
 The modulated signal can be Calculated Using the Formulae <br>
-<img src="Images/S6.png"/><br>
+<img src="Images/s6.png"/><br>
 
 <hr>
 
