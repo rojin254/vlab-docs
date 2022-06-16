@@ -1,43 +1,27 @@
 ## <br>INTRODUCTION <br>
 
- In communication, to transfer signal from one point to another efficiently many modulation techniques are used. Amplitude modulation is the pioneer technique used in communication to carrier message signal with help of high frequency waves.
- If the amplitude of the high frequency signal is simultaneously changed to that of the modulating signal, the process is termed as Amplitude Modulation.
-
+ Amplitude Shift Keying (ASK) is a type of Amplitude Modulation which represents the binary data in the form of variations in the amplitude of a signal.
+Any modulated signal has a high frequency carrier. The binary signal when ASK modulated, gives a zero value for Low input while it gives the carrier output for High input.
 ---
 
 ## <b>CONCEPT</b><br>
 
- Out of the three parameters in any given waveform, ie., amplitude , frequency and phase, If the amplitude of message is varied with respect to the high frequency signal(Carrier) the resultant will a modulated signal. 
+ The carrier generator, sends a continuous high-frequency carrier. The binary sequence from the message signal makes the unipolar input to be either High or Low. The high signal closes the switch, allowing a carrier wave. Hence, the output will be the carrier signal at high input. When there is low input, the switch opens, allowing no voltage to appear. Hence, the output will be low.
 
 ---
 
-## <b>AMPLITUDE MODULATION WAVE FORMS</b><br>
+## <b>AMPLITUDE SHIFT KEYING WAVE FORMS</b><br>
 
 <br>
 
 <img src="images/t1.png"/><br><br>
-<img src="images/t2.png"/><br><br>
-<img src="images/t3.png"/><br><br>
-
 
 <br>
-Where <img src="images/t5.png"/> and <img src="images/t6.png"/> are mathematical expression for
-<i>modulating and Carrier Signal</i>.<br>
-The modulation Index can be Calculated Using the Formulae 
-<img src="images/t4.png"/><br>
+
+The modulated signal can be Calculated Using the Formulae <br>
+<img src="images/S6.png"/><br>
 
 <hr>
-<b>Under Modulation</b> <br>
-If the depth of modulation is less than 1, then the resulting output is as shown in the figure. 
-<br>
-<img src="images/t7.png"/><br>
-Under Modulated Wave<br>
 
----
-
-<b>Over Modulation</b> <br>
- If the depth of modulation higher than 1, then the resulting output is as shown in the figure.<br>
-<img src="images/t8.png"/><br>
-Over modulated Wave<br>
 
 Take the pretest to Check your Understanding till know
