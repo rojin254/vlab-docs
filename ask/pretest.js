@@ -80,14 +80,14 @@
 
   const myQuestions = [
     {
-      question: "Amplitude modulation is _____",
+      question: "Amplitude Shift Keying is ______",
       answers: {
         a: "Change in amplitude of the carrier according to modulating signal",
-        b: "Change in frequency of the carrier according to modulating signal",
+        b: "Change in presence of the carrier according to modulating signal",
         c: " Change in amplitude of the modulating signal according to carrier signal",
         d: "Change in amplitude of the carrier according to modulating signal frequency"
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     },
 
 
@@ -103,14 +103,14 @@
     },
 
     {
-      question: "Modulation index of an AM signal is ratio of __________ to the _______",
+      question: " Which among the following is also called ON-OFF keying?",
       answers: {
-        a: "Peak carrier amplitude, Peak message signal amplitude",
-        b: "Peak message signal amplitude, Peak carrier amplitude",
-        c: "Carrier signal frequency, Message signal frequency",
-        d: "Message signal frequency, Carrier signal frequency"
+        a: "PSK",
+        b: "FSK",
+        c: "ASK",
+        d: "QPSK"
       },
-      correctAnswer: "b"
+      correctAnswer: "c"
     },
 
     {
@@ -125,12 +125,12 @@
     },
 
     {
-      question: " The ratio between the modulating signal voltage and the carrier voltage is called?",
+      question: " The process of changing one of the characteristics of a carrier analog signal based on the information in a digital signal is called _________________conversion.",
       answers: {
-        a: "Amplitude modulation",
-        b: "Modulation frequency",
-        c: "Modulation index",
-        d: "Ratio of modulation"
+        a: "Analog-to –analog",
+        b: "Analog-to-digital",
+        c: "Digital-to-analog",
+        d: "Digital-to-digital"
       },
       correctAnswer: "c"
     },
