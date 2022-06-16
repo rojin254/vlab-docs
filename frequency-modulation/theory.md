@@ -15,16 +15,16 @@
 
 <br>
 
-<img src="images/t1.png"/><br><br>
-<img src="images/t2.png"/><br><br>
-<img src="images/t3.png"/><br><br>
+<img src="Images/t1.png"/><br><br>
+<img src="Images/t2.png"/><br><br>
+<img src="Images/t3.png"/><br><br>
 
 
 <br>
-Where <img src="images/t5.png"/> and <img src="images/t6.png"/> are mathematical expression for
+Where <img src="Images/t5.png"/> and <img src="Images/t6.png"/> are mathematical expression for
 <i>modulating and Carrier Signal</i>.<br>
 The modulation Index can be Calculated Using the Formulae 
-<img src="images/t4.png"/><br>
+<img src="Images/t4.png"/><br>
 
 <hr>
 
